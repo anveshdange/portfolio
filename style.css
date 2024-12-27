@@ -66,6 +66,8 @@ a:visited {
 
 .photo{
     padding: 1rem;
+    /* display: flex;
+    align-items: center; */
 }
 
 .updates{
@@ -165,6 +167,9 @@ a:visited {
     align-items: center;
     width: 70%;
     margin: auto;
+    /* below code for upper and lower paddings */
+    padding-top: 5rem;
+    padding-bottom: 1rem;
     
 }
 
